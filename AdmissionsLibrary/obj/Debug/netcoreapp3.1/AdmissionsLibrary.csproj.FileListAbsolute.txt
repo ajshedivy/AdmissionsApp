@@ -1,0 +1,9 @@
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsLibrary\bin\Debug\netcoreapp3.1\AdmissionsLibrary.deps.json
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsLibrary\bin\Debug\netcoreapp3.1\AdmissionsLibrary.dll
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsLibrary\bin\Debug\netcoreapp3.1\AdmissionsLibrary.pdb
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsLibrary\obj\Debug\netcoreapp3.1\AdmissionsLibrary.csprojAssemblyReference.cache
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsLibrary\obj\Debug\netcoreapp3.1\AdmissionsLibrary.AssemblyInfoInputs.cache
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsLibrary\obj\Debug\netcoreapp3.1\AdmissionsLibrary.AssemblyInfo.cs
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsLibrary\obj\Debug\netcoreapp3.1\AdmissionsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsLibrary\obj\Debug\netcoreapp3.1\AdmissionsLibrary.dll
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsLibrary\obj\Debug\netcoreapp3.1\AdmissionsLibrary.pdb

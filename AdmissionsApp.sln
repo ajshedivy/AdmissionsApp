@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdmissionsApp", "AdmissionsApp\AdmissionsApp.csproj", "{31C5450C-976A-4D53-9D09-58AF20E7ECA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdmissionsLibrary", "AdmissionsLibrary\AdmissionsLibrary.csproj", "{D587A663-CDC4-426F-A60B-9451ADE82359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31C5450C-976A-4D53-9D09-58AF20E7ECA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C5450C-976A-4D53-9D09-58AF20E7ECA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C5450C-976A-4D53-9D09-58AF20E7ECA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C5450C-976A-4D53-9D09-58AF20E7ECA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D587A663-CDC4-426F-A60B-9451ADE82359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D587A663-CDC4-426F-A60B-9451ADE82359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D587A663-CDC4-426F-A60B-9451ADE82359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D587A663-CDC4-426F-A60B-9451ADE82359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C20D6A6-A07B-4A2E-89FD-E982F6B0E22A}
+	EndGlobalSection
+EndGlobal

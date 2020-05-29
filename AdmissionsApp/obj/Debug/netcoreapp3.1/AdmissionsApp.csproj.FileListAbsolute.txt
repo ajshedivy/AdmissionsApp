@@ -1,0 +1,16 @@
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsApp\bin\Debug\netcoreapp3.1\AdmissionsApp.exe
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsApp\bin\Debug\netcoreapp3.1\AdmissionsApp.deps.json
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsApp\bin\Debug\netcoreapp3.1\AdmissionsApp.runtimeconfig.json
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsApp\bin\Debug\netcoreapp3.1\AdmissionsApp.runtimeconfig.dev.json
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsApp\bin\Debug\netcoreapp3.1\AdmissionsApp.dll
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsApp\bin\Debug\netcoreapp3.1\AdmissionsApp.pdb
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsApp\bin\Debug\netcoreapp3.1\AdmissionsLibrary.dll
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsApp\bin\Debug\netcoreapp3.1\AdmissionsLibrary.pdb
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsApp\obj\Debug\netcoreapp3.1\AdmissionsApp.csprojAssemblyReference.cache
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsApp\obj\Debug\netcoreapp3.1\AdmissionsApp.AssemblyInfoInputs.cache
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsApp\obj\Debug\netcoreapp3.1\AdmissionsApp.AssemblyInfo.cs
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsApp\obj\Debug\netcoreapp3.1\AdmissionsApp.csproj.CoreCompileInputs.cache
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsApp\obj\Debug\netcoreapp3.1\AdmissionsApp.csproj.CopyComplete
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsApp\obj\Debug\netcoreapp3.1\AdmissionsApp.dll
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsApp\obj\Debug\netcoreapp3.1\AdmissionsApp.pdb
+C:\Users\ajshedivy\source\repos\AdmissionsApp\AdmissionsApp\obj\Debug\netcoreapp3.1\AdmissionsApp.genruntimeconfig.cache
